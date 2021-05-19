@@ -43,7 +43,7 @@
                     </view>
                     <connections>
                         <outlet property="labelResult" destination="Teq-tr-VCl" id="xB0-0F-U4T"/>
-                        <outlet property="textMessage" destination="AH0-fT-tMb" id="85z-5m-uFi"/>
+                        <outlet property="textDisplay" destination="AH0-fT-tMb" id="85z-5m-uFi"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
